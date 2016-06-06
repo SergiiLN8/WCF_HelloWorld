@@ -156,7 +156,6 @@ namespace FftExperiments
             double signalLowLevelLimit = 0.025; // low limit for signal;
             return rootMeanSquare > signalLowLevelLimit;
         }
-      
     }
 }
 
