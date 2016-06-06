@@ -1,0 +1,15 @@
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\FftExperiments.exe.config
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\FftExperiments.exe
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\FftExperiments.pdb
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\AForge.Math.dll
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\MathNet.Iridium.dll
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\AForge.dll
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\AForge.Math.xml
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\MathNet.Iridium.pdb
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\MathNet.Iridium.xml
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\AForge.xml
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\obj\Debug\FftExperiments.exe
+C:\Users\Lena\Documents\Visual Studio 2013\Projects\FftExperiments\FftExperiments\obj\Debug\FftExperiments.pdb
