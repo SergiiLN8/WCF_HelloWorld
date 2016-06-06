@@ -18,4 +18,3 @@ D:\SergiiK_Docs\_dev\FftExperiments\FftExperiments\obj\Debug\FftExperiments.exe
 D:\SergiiK_Docs\_dev\FftExperiments\FftExperiments\obj\Debug\FftExperiments.pdb
 D:\SergiiK_Docs\_dev\FftExperiments\FftExperiments\bin\Debug\FftExperiments.exe
 D:\SergiiK_Docs\_dev\FftExperiments\FftExperiments\bin\Debug\FftExperiments.pdb
-D:\SergiiK_Docs\_dev\FftExperiments\FftExperiments\obj\Debug\FftExperiments.csprojResolveAssemblyReference.cache

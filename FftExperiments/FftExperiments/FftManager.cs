@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FftExperiments
 {
-    class FftManager
+    public class FftManager
     {
+        string s = "qwertyu";
     }
 }
