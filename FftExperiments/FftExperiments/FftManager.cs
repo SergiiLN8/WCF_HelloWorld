@@ -8,6 +8,6 @@ namespace FftExperiments
 {
     public class FftManager
     {
-        string s = "qwertyu";
+        string s = "qwer1tyu";
     }
 }
